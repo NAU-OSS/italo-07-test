@@ -8,16 +8,16 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1724022753988.svg?)
+  ![User Draft Stats](/userCards/draft-1724714575094.svg?)
 
 ⚙️ Current Quest: 
   - Q1 - Exploring the GitHub World
     -  ~T1 - Explore the issue tracker~ [[COMPLETED](https://github.com/NAU-OSS/italo-07-test/issues/3)]
-    - T2 - Explore the pull-request menu [[Click here to start](https://github.com/NAU-OSS/italo-07-test/issues/4)]
-    - T3 - Explore the fork button
+    -  ~T2 - Explore the pull-request menu~ [[COMPLETED](https://github.com/NAU-OSS/italo-07-test/issues/4)]
+    - T3 - Explore the fork button [[Click here to start](https://github.com/NAU-OSS/italo-07-test/issues/5)]
     - T4 - Explore the readme file
     - T5 - Explore the contributors
 
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T2.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T3.png)
