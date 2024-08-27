@@ -8,12 +8,12 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1724798170497.svg?)
+  ![User Draft Stats](/userCards/draft-1724798405828.svg?)
 
 ⚙️ Current Quest: 
   - Q3 - Making your first contribution
-    - T1 - Solve the issue (upload a file/make commit) [[Click here to start](https://github.com/NAU-OSS/italo-07-test/issues/12)]
-    - T2 - Post in issue asking for a review
+    -  ~T1 - Solve the issue (upload a file/make commit)~ [[COMPLETED](https://github.com/NAU-OSS/italo-07-test/issues/12)]
+    - T2 - Post in issue asking for a review [[Click here to start](https://github.com/NAU-OSS/italo-07-test/issues/13)]
     - T3 - Close the issue
 
 ✅ Completed Quests: 
@@ -30,4 +30,4 @@ User Stats:<br>
     - ~T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue~ [[COMPLETED](https://github.com/NAU-OSS/italo-07-test/issues/11)]
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3T2.png)
